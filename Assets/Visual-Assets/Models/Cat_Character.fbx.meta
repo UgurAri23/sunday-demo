@@ -3,7 +3,27 @@ guid: 820b0e8f4decf654ba691862535a6336
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat_Eyebrow_Texture
+    second: {fileID: 2100000, guid: d9d1fc016ffacf34499f458f459478e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat_Face_Texture
+    second: {fileID: 2100000, guid: 063219d6e13f3a54093def17f781af36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat_Hairless_Area_texture
+    second: {fileID: 2100000, guid: 6ca060613b82049479e829ccfe549296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat_Main_Texture
+    second: {fileID: 2100000, guid: b7d3cd2b878f4f343ba19bc73a81cd10, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -88,7 +108,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.015
+    globalScale: 1.5
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

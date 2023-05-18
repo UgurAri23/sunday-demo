@@ -3,7 +3,137 @@ guid: 5a0a832b7041d28438bd130ec24366de
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Material
+    second: {fileID: 2100000, guid: 97218f424afdd3f49b36e1d5f272dc8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildGlass
+    second: {fileID: 2100000, guid: a27059ed24af9174d9549fbac9caa5a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildMaterial
+    second: {fileID: 2100000, guid: dc26aeb0c33accd4583e621bc2606cf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colored_area_material
+    second: {fileID: 2100000, guid: 9dceecef00eca404fb5b1956200a5603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteMaterial
+    second: {fileID: 2100000, guid: ff121361d40405a41bbbfd2f58df1b06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Court_Floor_Material
+    second: {fileID: 2100000, guid: 66400e53373a69f44b6b50cb5655b4b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Court_lines_material
+    second: {fileID: 2100000, guid: cdf500b226fbf05409e24933fa9ef81a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_Material
+    second: {fileID: 2100000, guid: 3159fdf88b6f5d742a77894242ba11fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green_Light_Material
+    second: {fileID: 2100000, guid: efb705b575cf9714d8de37b77f663e6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hoop_Board_Material
+    second: {fileID: 2100000, guid: 4bdffa33046d5c341be85a8268704381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hoop_Lines_Materlai
+    second: {fileID: 2100000, guid: bfe75b751f8465043a6a69da9a0a92f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hoop_Ring_01_Material
+    second: {fileID: 2100000, guid: 2e25323ffa308824a909db6d5f3b75a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalMaterial
+    second: {fileID: 2100000, guid: 8ee24188ea84a9a42a179f69011c985c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pine_Tree_Leaves_Material
+    second: {fileID: 2100000, guid: 09be1fa71ec8d6c4497f780c2bf3c7eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pine_Tree_Wood_Material
+    second: {fileID: 2100000, guid: 3c6875dc2dad17a43b6a316b2fcb9a23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pole_01_Material
+    second: {fileID: 2100000, guid: 42041695809a59d40baf4ba8f395a22c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red_Light_Material
+    second: {fileID: 2100000, guid: 915c534434ca9344db2d3a0c45e97d05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadLineMaterial
+    second: {fileID: 2100000, guid: e1726f560e941a84cb9c225bc2111524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadMaterial
+    second: {fileID: 2100000, guid: 99bf28a624cf1c94988e742245bfe7de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SidewalkMaterial
+    second: {fileID: 2100000, guid: 618accb638ac79d4283b3980e0f10ec7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Traffic_Light_Box_Material
+    second: {fileID: 2100000, guid: 8632d4096a38b2841a723ca84e441db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_Dirt_Material
+    second: {fileID: 2100000, guid: 02146210def601e40a3f35283a141bc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_Leaves_Material
+    second: {fileID: 2100000, guid: 6d9db6b8763464846bf16e96ce060674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_Stone_Material
+    second: {fileID: 2100000, guid: c0ff325eb15208641ba6e7d51b0446e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_Wood_Material
+    second: {fileID: 2100000, guid: f30b481b927750049b91391a48974c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow_Light_Material
+    second: {fileID: 2100000, guid: 38bd969bfc9353c4fa2e08cb7a5d9506, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
