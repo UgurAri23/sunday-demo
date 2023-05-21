@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: StylizedWater2_Toon
+  m_Name: Toon_Water_Material
   m_Shader: {fileID: 4800000, guid: f04c9486b297dd848909db26983c9ddb, type: 3}
   m_ValidKeywords:
   - _ADVANCED_SHADING
@@ -206,7 +206,7 @@ Material:
     - _SparkleSize: 0.307
     - _SpecularHighlights: 1
     - _SpecularReflectionsOn: 1
-    - _Speed: 0.1
+    - _Speed: 0.2
     - _SrcBlend: 1
     - _SunReflectionDistortion: 0.49
     - _SunReflectionPerturbance: 1
@@ -239,7 +239,7 @@ Material:
     - _WorldSpaceUV: 1
     - _ZWrite: 0
     m_Colors:
-    - _BaseColor: {r: 0, g: 0.8448343, b: 1, a: 0.6039216}
+    - _BaseColor: {r: 0, g: 0.8448343, b: 1, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _DepthMapBounds: {r: -402.3, g: -459.43, b: 0.0012693577, a: 0}
     - _Direction: {r: 0.5, g: 0.5, b: 0, a: 0}
