@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Kitten_Eyebrow_Material
+  m_Name: Kitten_Eyebrow_Material_2
   m_Shader: {fileID: 4800000, guid: df695d70c539c3d4c87b79de307ab7bb, type: 3}
   m_ValidKeywords:
   - _MK_ARTISTIC_ANIMATION_STUTTER
@@ -305,9 +305,9 @@ Material:
     - _ZTest: 4
     - _ZWrite: 1
     m_Colors:
-    - _AlbedoColor: {r: 0.809, g: 0.77317786, b: 0.694122, a: 1}
+    - _AlbedoColor: {r: 0.35499993, g: 0.35499993, b: 0.35499993, a: 1}
     - _BaseColor: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
-    - _Color: {r: 0.809, g: 0.77317786, b: 0.694122, a: 1}
+    - _Color: {r: 0.3549999, g: 0.3549999, b: 0.3549999, a: 1}
     - _DetailColor: {r: 1, g: 1, b: 1, a: 1}
     - _DissolveBorderColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

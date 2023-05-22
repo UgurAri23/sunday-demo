@@ -28,7 +28,7 @@ GameObject:
   - component: {fileID: 19835860}
   - component: {fileID: 19991100}
   m_Layer: 0
-  m_Name: ItemSparkleBlue
+  m_Name: Collectable_Sparkle_Particle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

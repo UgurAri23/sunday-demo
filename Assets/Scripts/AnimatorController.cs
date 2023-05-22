@@ -28,4 +28,11 @@ public class AnimatorController : MonoBehaviour
     {
         _animator.SetTrigger("Death");
     }
+
+    public void PlayJoy()
+    {
+
+        _animator.SetTrigger("Joy");
+
+    }
 }
