@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 19852656}
   - component: {fileID: 19965760}
   m_Layer: 0
-  m_Name: LightningOrbBlue
+  m_Name: Lightning_Particle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
